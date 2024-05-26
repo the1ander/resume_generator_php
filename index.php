@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="/style/style.css">
     <link href="/curriculo.php">
     <link href="/proj.php">
-    <link href="/script/script.js">
 </head>
 
 <body>
@@ -42,7 +41,7 @@
             </div>
 
         </section>
-        
+
     </main>
 
 </body>
