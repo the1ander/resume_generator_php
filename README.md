@@ -1,1 +1,78 @@
-resume_generator_php
+# Gerador de Currículo Online
+
+Este projeto consiste em um trabalho feito para o curso superior de Análise e Desenvolvimento de sistemas da UNIPAR (Universidade Paranaênse)
+Aluno que desenvolveu: Anderson Poltronieri da Luz.
+
+## Protótipo
+
+O projeto "Gerador de Currículo Online" é uma aplicação web desenvolvida para simplificar a criação de currículos profissionais. O principal objetivo é fornecer uma interface intuitiva e amigável que permita aos usuários inserir suas informações pessoais e profissionais de maneira organizada, gerando um currículo formatado e pronto para impressão.
+
+## Acesse o protótipo de fidelidade no Figma pelo link: 
+- https://www.figma.com/design/pv2AJOdhuFNKvMsTI12Adq/Untitled?node-id=14-531&t=Zxzr349yvC96bhqq-0 
+
+### Componentes Principais
+
+#### Botões
+
+- **Botão "Adicionar Texto"**: Este botão permite ao usuário adicionar texto às áreas específicas do currículo. Ele é projetado para ser visível e acessível, com feedback visual ao ser clicado.
+- **Botão "Limpar Texto"**: Facilita a exclusão rápida do texto inserido, ajudando a manter o documento organizado.
+- **Botão "Gerar Currículo"**: Inicia o processo de geração do currículo finalizado. Este botão é destacado para chamar a atenção do usuário.
+- **Botão "Como Usar"**: Direciona o usuário para um guia de uso detalhado, ajudando a resolver possíveis dúvidas e melhorando a experiência do usuário.
+- **Botão "Documentação"**: Fornece acesso à documentação técnica do projeto.
+
+#### Áreas de Texto
+
+- **Seções de Inserção de Texto**: As áreas de texto são onde os usuários inserem suas informações pessoais, como nome, idade, email, apresentação, formação, qualificações e experiências profissionais. Essas áreas são bem definidas e organizadas para facilitar a entrada de dados.
+
+#### Layout Principal
+
+- **Layout Principal**: O layout é projetado para ser limpo e sem distrações, utilizando uma paleta de cores suave e uma tipografia legível. A organização do conteúdo é pensada para guiar o usuário através do processo de criação do currículo de forma lógica e eficiente.
+
+### Protótipos e Componentes Visuais
+
+Abaixo estão alguns exemplos visuais dos componentes e do layout do projeto:
+
+![image](https://github.com/the1ander/resume_generator_php/assets/151629165/16ba8299-babd-44cb-8bab-79074260f271)
+
+
+Esses componentes foram cuidadosamente projetados para atender aos princípios de design de UX/UI, oferecendo uma experiência agradável e eficiente para o usuário.
+
+#### Exibição do Currículo
+
+- **Áreas de Exibição**: Após a inserção dos dados, as informações são exibidas em áreas específicas que replicam o formato final do currículo. Isso permite ao usuário visualizar o resultado antes de gerar o documento final.
+
+![image](https://github.com/the1ander/resume_generator_php/assets/151629165/a7590ded-a873-4d9e-82cb-d8429b79be21)
+
+
+### Objetivo do Gerador de Currículos
+
+O principal objetivo do Gerador de Currículo Online é facilitar a criação de currículos profissionais sem a necessidade de conhecimentos técnicos em design ou formatação de documentos. A ferramenta é especialmente útil para:
+
+- **Estudantes e recém-formados**: Que estão criando seus primeiros currículos.
+- **Profissionais em transição de carreira**: Que precisam atualizar ou reformular seus currículos.
+- **Qualquer pessoa que queira um currículo bem formatado**: Sem investir muito tempo em softwares de edição de texto.
+
+### UX e UI
+
+A experiência do usuário (UX) e a interface do usuário (UI) são fundamentais no design deste projeto. Alguns dos aspectos que foram considerados incluem:
+
+#### UX (User Experience)
+
+- **Facilidade de Uso**: A aplicação é projetada para ser intuitiva, com instruções claras e botões bem posicionados. As funções são autoexplicativas, minimizando a curva de aprendizado.
+- **Feedback do Usuário**: Elementos interativos, como botões e áreas de texto, fornecem feedback imediato (visual e funcional) ao serem usados, como mudanças de cor ao passar o mouse ou ao clicar.
+- **Acessibilidade**: O design leva em conta a acessibilidade, garantindo que todas as funções sejam acessíveis via teclado e que o contraste de cores seja adequado para usuários com deficiência visual.
+
+#### UI (User Interface)
+
+- **Design Limpo e Simples**: Utilização de um layout minimalista, com bastante espaço em branco para evitar sobrecarregar o usuário com informações.
+- **Consistência Visual**: Uso consistente de cores, tipografia e espaçamentos para criar uma experiência coesa e profissional.
+
+### Dowload do Protótipo de fidelidade em PDF:
+
+[Untitled (1).pdf](https://github.com/user-attachments/files/16030119/Untitled.1.pdf)
+
+Print do Protótipo de fidelidade no figma:
+-![image](https://github.com/the1ander/resume_generator_php/assets/151629165/d42ea5f2-fad4-4d4d-a577-a9bfabe8c781)
+
+
+
