@@ -1,0 +1,163 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif; /* Fonte do texto */
+    background-color: #f0f0f0; /* Cor de fundo */
+    margin: 0; /* Remove a margem padrão */
+    display: flex; /* Exibe o conteúdo em flexbox */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    height: 100vh; /* Altura da tela cheia */
+}
+
+/* Layout principal */
+.mainLayout {
+    max-width: 100%; /* Largura máxima */
+    width: 90vw; /* Largura relativa à viewport */
+    height: 90vh; /* Altura relativa à viewport */
+    padding: 20px; /* Espaçamento interno */
+    background-color: rgb(224, 219, 219); /* Cor de fundo */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra do layout */
+    overflow: auto; /* Adiciona rolagem quando necessário */
+}
+
+/* Estilo das seções de texto */
+.all_placeholder_texts > div {
+    margin-bottom: 20px; /* Espaçamento inferior das seções */
+    background-color: #f2f2f2; /* Cor de fundo mais clara */
+    padding: 15px; /* Espaçamento interno */
+    border-radius: 8px; /* Borda arredondada */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+/* Estilo do título das seções */
+.all_placeholder_texts .all_title {
+    font-size: 18px; /* Tamanho da fonte do título */
+    font-weight: bold; /* Negrito */
+    margin-bottom: 10px; /* Espaçamento inferior do título */
+}
+
+/* Estilo do texto inserido */
+.all_placeholder_texts textarea {
+    width: calc(100% - 30px); /* Largura calculada */
+    padding: 10px; /* Espaçamento interno */
+    margin-top: 5px; /* Margem superior */
+    border: 1px solid #ccc; /* Borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    font-size: 16px; /* Tamanho da fonte */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    color: #333; /* Cor do texto */
+}
+
+.all_placeholder_texts textarea:focus {
+    border-color: #4CAF50; /* Cor da borda ao focar */
+    outline: none; /* Remove o outline padrão */
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5); /* Sombra ao focar */
+}
+
+/* Estilo para os botões de ação */
+.inButton, .offButton {
+    border: none; /* Remove a borda */
+    padding: 10px 15px; /* Espaçamento interno */
+    font-size: 14px; /* Tamanho da fonte */
+    margin-top: 10px; /* Margem superior */
+    cursor: pointer; /* Cursor de ponteiro */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    display: inline-block; /* Exibe os botões em linha */
+    width: auto; /* Largura automática */
+}
+
+/* Estilo para centralizar os botões */
+.buttonContainer {
+    text-align: center; /* Centraliza o conteúdo */
+    margin-top: 10px; /* Margem superior */
+}
+
+.inButton {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: white; /* Cor do texto */
+}
+
+.offButton {
+    background-color: #ca2626; /* Cor de fundo */
+    color: white; /* Cor do texto */
+}
+
+.inButton:hover, .offButton:hover {
+    background-color: #333; /* Cor de fundo ao passar o mouse */
+    color: white; /* Cor do texto ao passar o mouse */
+}
+/* Estilo para o botão "GERAR" */
+#buttonSend {
+    background-color: #006400; /* Cor de fundo verde escuro */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda */
+    padding: 12px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border-radius: 5px; /* Borda arredondada */
+    cursor: pointer; /* Cursor de ponteiro */
+    display: block; /* Exibe o botão como bloco */
+    margin: 20px auto; /* Margem automática para centralizar */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+}
+
+/* Estilo dos botões do menu */
+.all_menu_button {
+    text-align: center; /* Alinhamento centralizado */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+.all_menu_button button {
+    background-color: #264403d0; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda */
+    padding: 12px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    display: inline-block; /* Exibe os botões em linha */
+    margin-right: 10px; /* Espaçamento à direita */
+}
+
+.all_menu_button button:hover {
+    background-color: #004d00; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+/* Estilo da explicação pequena */
+.small_explain {
+    font-size: 14px; /* Tamanho da fonte */
+    color: #555; /* Cor do texto */
+    margin-top: 20px; /* Margem superior */
+    text-align: center; /* Alinhamento centralizado */
+    padding: 10px; /* Espaçamento interno */
+    background-color: #e0e0e0; /* Cor de fundo */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+#buttonSend:hover {
+    background-color: #004d13; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+#placeholder_text_name, 
+#placeholder_text_idade, 
+#placeholder_text_email, 
+#placeholder_text_apresentacao,
+#placeholder_text_formacao,
+#placeholder_text_qualificacao,
+#placeholder_text_Exp,
+#placeholder_text_telefone
+
+ {
+    font-size: 18px; /* Tamanho da fonte */
+    line-height: 1.6; /* Altura da linha */
+    color: #ee4f4f; /* Cor do texto */
+    background-color: #fff; /* Cor de fundo */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Borda arredondada */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+   
