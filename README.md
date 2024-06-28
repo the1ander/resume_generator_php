@@ -43,6 +43,20 @@ Esses componentes foram cuidadosamente projetados para atender aos princípios d
 
 ![image](https://github.com/the1ander/resume_generator_php/assets/151629165/a7590ded-a873-4d9e-82cb-d8429b79be21)
 
+# Gerador de Currículos
+
+## Áreas de Exibição pós gerar o currículo e pré-print
+
+Depois de confirmar os dados o usuário ainda tem mais uma pré-visualização que vai coletar estes dados e preparar para impressão, esta, extremamente fiel ao PDF gerado.
+
+| Pré-Visualização | PDF |
+|------------------|-----|
+| **Pré-view**: | **PDF**: |
+| ![image](https://github.com/the1ander/resume_generator_php/assets/151629165/eb11df7d-fc98-4db9-b666-e6f726c4733a) | ![image](https://github.com/the1ander/resume_generator_php/assets/151629165/c55f4ec8-983f-4913-ad90-4fb02913a11a) |
+
+
+
+
 
 ### Objetivo do Gerador de Currículos
 
@@ -69,10 +83,12 @@ A experiência do usuário (UX) e a interface do usuário (UI) são fundamentais
 
 ### Dowload do Protótipo de fidelidade em PDF:
 
-[Untitled (1).pdf](https://github.com/user-attachments/files/16030119/Untitled.1.pdf)
+- [Resume_genetator.pdf](https://github.com/user-attachments/files/16032229/Resume_genetator.pdf)
 
-Print do Protótipo de fidelidade no figma:
--![image](https://github.com/the1ander/resume_generator_php/assets/151629165/d42ea5f2-fad4-4d4d-a577-a9bfabe8c781)
+
+- Print do Protótipo de fidelidade no figma:
+ ![image](https://github.com/the1ander/resume_generator_php/assets/151629165/ee08866f-749b-41d8-ad80-a74bc8526702)
+
 
 
 
