@@ -85,9 +85,51 @@ A experiência do usuário (UX) e a interface do usuário (UI) são fundamentais
 
 - [Resume_genetator.pdf](https://github.com/user-attachments/files/16032229/Resume_genetator.pdf)
 
-
 - Print do Protótipo de fidelidade no figma:
  ![image](https://github.com/the1ander/resume_generator_php/assets/151629165/ee08866f-749b-41d8-ad80-a74bc8526702)
+
+# Guia do Usuário - Currículo Online
+
+## Introdução
+
+Bem-vindo ao nosso software de criação de currículos online. Este guia foi criado para ajudá-lo a entender como utilizar todas as funcionalidades disponíveis para criar e imprimir seu currículo de maneira rápida e eficiente.
+
+## Passo 1: Acesso à Ferramenta
+
+Para acessar a ferramenta de criação de currículos, basta abrir o arquivo `index.html` em seu navegador. Você verá a tela inicial onde poderá inserir suas informações pessoais e profissionais.
+
+## Passo 2: Inserção de Dados
+
+Preencha os campos disponíveis com suas informações:
+
+- **Nome**: Digite seu nome completo no campo de texto.
+- **Idade**: Informe sua idade.
+- **E-mail**: Insira seu endereço de e-mail.
+- **Apresentação**: Escreva uma breve apresentação sobre você.
+- **Formação**: Informe sua formação acadêmica.
+- **Qualificações**: Liste suas qualificações e habilidades.
+- **Experiências**: Descreva suas experiências profissionais.
+
+## Passo 3: Adicionar Informações
+
+Utilize os botões de ação para adicionar, limpar ou deletar informações conforme necessário:
+
+- **Adicionar**: Clique no botão ![Adicionar](https://via.placeholder.com/80x20.png?text=Adicionar) para inserir as informações no currículo.
+- **Deletar**: Clique no botão ![Deletar](https://via.placeholder.com/80x20.png?text=Deletar) para remover informações inseridas.
+
+## Passo 4: Gerar Currículo
+
+Depois de inserir todas as informações, clique no botão ![Gerar Currículo](https://via.placeholder.com/120x30.png?text=Gerar+Curr%C3%ADculo) para enviar os dados e gerar a visualização do currículo.
+
+## Passo 5: Imprimir Currículo
+
+Na página de visualização do currículo, você verá um botão ![Imprimir Currículo](https://via.placeholder.com/150x30.png?text=Imprimir+Curr%C3%ADculo). Clique nele para ocultar o botão e abrir a caixa de diálogo de impressão do seu navegador. Siga as instruções para imprimir seu currículo.
+
+## Conclusão
+
+Esperamos que este guia tenha sido útil. Se você tiver qualquer dúvida ou encontrar algum problema, não hesite em entrar em contato com nosso suporte técnico.
+
+**Suporte**: [andr.poltronieri@gmail.com](mailto:andr.poltronieri@gmail.com)
 
 
 
