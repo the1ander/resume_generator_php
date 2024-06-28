@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./processa_Style.css">
+    <link rel="stylesheet" href="/style/processa_Style.css">
     
     <link rel ="stylesheet" href ="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
@@ -84,7 +84,7 @@
         
         
     </main>
-    <script src="/processa_Script.js"></script>
+    <script src="/script/processa_Script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
     

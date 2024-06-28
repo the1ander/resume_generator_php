@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Guia do Usuário - Currículo Online</title>
-    <link rel="stylesheet" href="/guia_Syle.css">
+    <link rel="stylesheet" href="/style/guia_Syle.css">
 </head>
 <body>
     <main class="mainLayout">

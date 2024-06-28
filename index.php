@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./css3.css">
+    <link rel="stylesheet" href="/style/css3.css">
     <title>currículo</title>
-    <script src="./script.js"></script>
+    
     
 
 
@@ -121,5 +121,6 @@
 
 
 </body>
+<script src="/script/script.js"></script>
 
 </html>
