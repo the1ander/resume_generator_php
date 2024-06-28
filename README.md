@@ -40,7 +40,8 @@ Esses componentes foram cuidadosamente projetados para atender aos princípios d
 #### Exibição do Currículo
 
 - **Áreas de Exibição**: Após a inserção dos dados, as informações são exibidas em áreas específicas que replicam o formato final do currículo. Isso permite ao usuário visualizar o resultado antes de gerar o documento final.
-![image](https://github.com/the1ander/resume_generator_php/assets/151629165/bb8430b5-5a01-4238-9ec3-f3538fe1ff77)
+
+![image](https://github.com/the1ander/resume_generator_php/assets/151629165/a7590ded-a873-4d9e-82cb-d8429b79be21)
 
 
 ### Objetivo do Gerador de Currículos
